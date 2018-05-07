@@ -7,7 +7,7 @@
        }
     </script>
   </head>
-  <body onCLick="showMeldung();
+  <body onCLick="showMeldung()">
     <div id="meldung"></div>
   </body>
  </html>
